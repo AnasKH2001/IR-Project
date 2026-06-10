@@ -1,0 +1,11 @@
+rank-bm25
+scikit-learn
+numpy
+nltk
+sentence-transformers
+streamlit
+fastapi
+uvicorn
+requests
+tqdm
+python-dotenv
