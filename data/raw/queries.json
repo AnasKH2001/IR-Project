@@ -1,0 +1,122 @@
+[
+  {
+    "query_id": "1",
+    "text": "Liposarcoma CDK4 Amplification 38-year-old male GERD"
+  },
+  {
+    "query_id": "2",
+    "text": "Colon cancer KRAS (G13D), BRAF (V600E) 52-year-old male Type II Diabetes, Hypertension"
+  },
+  {
+    "query_id": "3",
+    "text": "Meningioma NF2 (K322), AKT1(E17K) 45-year-old female None"
+  },
+  {
+    "query_id": "4",
+    "text": "Breast cancer FGFR1 Amplification, PTEN (Q171) 67-year-old female Depression, Hypertension, Heart Disease"
+  },
+  {
+    "query_id": "5",
+    "text": "Melanoma BRAF (V600E), CDKN2A Deletion 45-year-old female None"
+  },
+  {
+    "query_id": "6",
+    "text": "Melanoma NRAS (Q61K) 55-year-old male Hypertension"
+  },
+  {
+    "query_id": "7",
+    "text": "Lung cancer EGFR (L858R) 50-year-old female Lupus"
+  },
+  {
+    "query_id": "8",
+    "text": "Lung cancer EML4-ALK Fusion transcript 52-year-old male Hypertension, Osteoarthritis"
+  },
+  {
+    "query_id": "9",
+    "text": "Gastrointestinal stromal tumor KIT Exon 9 (A502_Y503dup) 49-year-old female None"
+  },
+  {
+    "query_id": "10",
+    "text": "Lung adenocarcinoma KRAS (G12C) 61-year-old female Hypertension, Hypercholesterolemia"
+  },
+  {
+    "query_id": "11",
+    "text": "Gastric cancer PIK3CA (E545K) 54-year-old male Depression"
+  },
+  {
+    "query_id": "12",
+    "text": "Colon cancer BRAF (V600E) 35-year-old male None"
+  },
+  {
+    "query_id": "13",
+    "text": "Cholangiocarcinoma BRCA2 72-year-old male Diabetes"
+  },
+  {
+    "query_id": "14",
+    "text": "Cholangiocarcinoma IDH1 (R132H) 64-year-old male Neuropathy"
+  },
+  {
+    "query_id": "15",
+    "text": "Cervical cancer STK11 26-year-old female None"
+  },
+  {
+    "query_id": "16",
+    "text": "Pancreatic cancer CDKN2A 54-year-old male Diabetes, Hypertension"
+  },
+  {
+    "query_id": "17",
+    "text": "Prostate cancer PTEN Inactivating 81-year-old male Hypertension, Depression"
+  },
+  {
+    "query_id": "18",
+    "text": "Pancreatic cancer CDK6 Amplification 48-year-old male None"
+  },
+  {
+    "query_id": "19",
+    "text": "Colorectal cancer FGFR1 Amplification 35-year-old female None"
+  },
+  {
+    "query_id": "20",
+    "text": "Liposarcoma MDM2 Amplification 26-year-old male None"
+  },
+  {
+    "query_id": "21",
+    "text": "Lung adenocarcinoma ALK Fusion 64-year-old female Emphysema"
+  },
+  {
+    "query_id": "22",
+    "text": "Lung cancer ERBB2 Amplification 70-year-old male Arthritis"
+  },
+  {
+    "query_id": "23",
+    "text": "Breast cancer PTEN Loss 54-year-old female Congestive Heart Failure"
+  },
+  {
+    "query_id": "24",
+    "text": "Lung cancer NTRK1 58-year-old female Depression, Hypertension, Diabetes"
+  },
+  {
+    "query_id": "25",
+    "text": "Lung adenocarcinoma MET Amplification 48-year-old male Emphysema"
+  },
+  {
+    "query_id": "26",
+    "text": "Breast cancer NRAS Amplification 35-year-old female None"
+  },
+  {
+    "query_id": "27",
+    "text": "Pancreatic adenocarcinoma KRAS, TP53 49-year-old female None"
+  },
+  {
+    "query_id": "28",
+    "text": "Pancreatic ductal adenocarcinoma ERBB3 73-year-old female Whipple, FNA"
+  },
+  {
+    "query_id": "29",
+    "text": "Ampullary carcinoma KRAS 61-year-old male None"
+  },
+  {
+    "query_id": "30",
+    "text": "Pancreatic adenocarcinoma RB1, TP53, KRAS 57-year-old female None"
+  }
+]
